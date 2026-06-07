@@ -27,6 +27,11 @@ Constructing reactive state machines and immersive user interfaces.
 
 **Status:** EXPERT
 
+### ⚡️ Vite
+Automating workflows and implementing lightweight AI modules.
+
+**Status:** EXPERT
+
 ### 🟢 Node.js
 Non-blocking I/O orchestration for distributed system infrastructures.
 
