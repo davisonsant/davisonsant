@@ -3,7 +3,7 @@
 ```bash
 $ whoami
 User: Davison Sant
-Role: Software Engineer
+Role: Tech Leader & Dev Sênior_
 Status: Online
 
 $ uptime --pretty
