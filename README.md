@@ -80,8 +80,8 @@ Automating workflows and implementing lightweight AI modules.
 
 - GitHub: https://github.com/davisonsant
 - LinkedIn: https://linkedin.com/in/davison-sant
-- Twitter/X: @ds_architect
-- Email: root@dsant.io
+- Twitter/X: @davisonsant_
+- Email: davison.sant@live.com
 
 ---
 
